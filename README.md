@@ -18,4 +18,4 @@ Este proyecto surge de la necesidad de optimizar la gestión de stock en una fer
 * `inventario.csv`: Dataset generado para el análisis.
 
 ---
-**Analista:** Jose - Data Analytics Enthusiast
+**Analista:** José Escalante - Data Analyst
