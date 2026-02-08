@@ -33,7 +33,7 @@ Este análisis aplica la Ley de Pareto para jerarquizar el inventario de la ferr
 3. **Identificación de Productos Críticos:** Selección del grupo "A" (productos de alta rotación y valor) para vigilancia de stock permanente.
 
 ## 📂 Archivos en este repositorio
-* `Pareto_Analisis.ipynb`: Notebook con el desarrollo matemático y visualización.
+* `Analisis_Pareto_Ferreteria.ipynb`: Notebook con el desarrollo matemático y visualización.
 * `valor_acumulado.csv`: Reporte con la clasificación final de cada SKU.
 
 # 📈 3. Análisis de Tendencia de Ventas - Proyección Mensual
@@ -52,7 +52,7 @@ Este análisis busca identificar los patrones de demanda estacional en la ferret
 3. **Planificación de Stock:** Cálculo de niveles de inventario necesarios basados en la proyección de salida de mercancía.
 
 ## 📂 Archivos en este repositorio
-* `Tendencia_Ventas.ipynb`: Notebook con el análisis temporal y proyecciones.
+* `Pronostico_de_ventas.ipynb`: Notebook con el análisis temporal y proyecciones.
 * `proyeccion_mensual.csv`: Dataset con los resultados del modelo de demanda.
 ---
 
