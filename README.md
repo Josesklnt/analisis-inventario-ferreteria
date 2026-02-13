@@ -17,7 +17,7 @@ Este proyecto surge de la necesidad de optimizar la gestión de stock en una fer
 * `Ferreteria.ipynb`: Notebook con todo el código documentado.
 * `inventario.csv`: Dataset generado para el análisis.
 
-# 📊 2. Análisis de Pareto (80/20) - Optimización de Inversión
+# 📊 2. Análisis de Pareto (20/80) - Optimización de Inversión
 
 ## 📋 Descripción del Proyecto
 Este análisis aplica la Ley de Pareto para jerarquizar el inventario de la ferretería. El objetivo es identificar el 20% de los productos que representan el 80% del valor monetario total, optimizando el flujo de caja y priorizando el control de los activos de mayor impacto financiero.
